@@ -1,6 +1,6 @@
 # vue-element
 
-> A Vue.js project
+vue-element 国际化（多语言）和主题切换的实现
 
 ## Build Setup
 
